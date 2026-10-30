@@ -1,0 +1,9 @@
+{
+  "researcher": "Example Professor",
+  "institution": "Example University",
+  "region": "New Zealand",
+  "task": "PhD supervisor due diligence",
+  "language": "English",
+  "review_date": "YYYY-MM-DD",
+  "notes": "Synthetic example only; do not mistake this for a real researcher."
+}

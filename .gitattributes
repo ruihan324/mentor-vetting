@@ -1,0 +1,13 @@
+# Normalize line endings to LF for cross-platform consistency
+* text=auto
+
+# Explicitly force LF for source and config files
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+# Binary files
+*.docx binary

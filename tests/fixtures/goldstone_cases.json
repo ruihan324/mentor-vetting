@@ -1,0 +1,20 @@
+{
+  "note": "Regression fixtures with primary publisher/PubMed references; authored 2026-10-31. Records are deliberately curated input, not live data.",
+  "items": [
+    {
+      "case_id": "goldstone-2011-same-doi-wrong-sole-first",
+      "claimed": {"doi": "10.1038/nature10623", "title": "HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase", "year": 2011, "researcher": "David C. Goldstone", "roles": ["sole_first_author", "corresponding_author", "independent_pi"]},
+      "record": {"doi": "10.1038/nature10623", "title": "HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase", "year": 2011, "source": "https://www.nature.com/articles/nature10623", "role_source": "https://www.nature.com/articles/nature10623", "authors": [{"name": "David C. Goldstone", "affiliations": ["MRC National Institute for Medical Research"]}, {"name": "Valerie Ennis-Adeniran"}], "equal_first": ["David C. Goldstone", "Valerie Ennis-Adeniran"], "corresponding": ["Ian A. Taylor", "Michelle Webb"]}
+    },
+    {
+      "case_id": "goldstone-2011-cofirst-correct",
+      "claimed": {"doi": "https://doi.org/10.1038/nature10623", "title": "HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase", "year": 2011, "researcher": "David C. Goldstone", "roles": ["co_first_author"]},
+      "record": {"doi": "10.1038/nature10623", "title": "HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase", "year": 2011, "source": "https://www.nature.com/articles/nature10623", "role_source": "https://www.nature.com/articles/nature10623", "authors": [{"name": "David C. Goldstone"}, {"name": "Valerie Ennis-Adeniran"}], "equal_first": ["David C. Goldstone", "Valerie Ennis-Adeniran"], "corresponding": ["Ian A. Taylor", "Michelle Webb"]}
+    },
+    {
+      "case_id": "goldstone-2024-doi-mismatch",
+      "claimed": {"doi": "10.1021/acs.jmedchem.4c01152", "title": "Pseudosubstrate Envelope/Free Energy Perturbation-Guided Design and Mechanistic Investigations of Benzothiazole HIV Capsid Modulators with High Ligand Efficiency", "year": 2024, "researcher": "David C. Goldstone"},
+      "record": {"doi": "10.1021/acs.jmedchem.4c01544", "title": "Pseudosubstrate Envelope/Free Energy Perturbation-Guided Design and Mechanistic Investigations of Benzothiazole HIV Capsid Modulators with High Ligand Efficiency", "year": 2024, "source": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c01544", "authors": [{"name": "Shujing Xu"}, {"name": "David C. Goldstone"}], "equal_first": null, "corresponding": null}
+    }
+  ]
+}

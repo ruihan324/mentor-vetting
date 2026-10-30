@@ -1,0 +1,50 @@
+{
+  "subject": "Tristan de Rond",
+  "institution": "University of Auckland, School of Chemical Sciences",
+  "date_checked": "2026-10-31",
+  "status": "Preliminary public-information investigation",
+  "identity_evidence": [
+    {
+      "kind": "official_personnel_record",
+      "url": "https://www.auckland.ac.nz/assets/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/2026-calendar-parts/2026-calendar-8jun26.pdf"
+    }
+  ],
+  "verified_project_funding": {
+    "award": "Marsden Fast-Start 22-UOA-072",
+    "award_year": 2022,
+    "amount_NZD": 360000,
+    "role": "PI",
+    "current_balance": "Unknown",
+    "source": "https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2022"
+  },
+  "advertised_2026_projects": [
+    {
+      "name": "Genome mining / biosynthetic enzyme discovery",
+      "source": "https://www.auckland.ac.nz/assets/science/About-the-faculty/Biological/Documents/SBS-project-list-for-2026_22-01-2026.pdf",
+      "scientific_aim": "Supported but incomplete",
+      "novelty": "Unknown",
+      "methods_rigor": "Unknown",
+      "specific_facilities": "Unknown",
+      "funded_student_place": "Unknown"
+    },
+    {
+      "name": "Enzyme biotechnology / synthetic biology / metabolic engineering",
+      "source": "https://www.auckland.ac.nz/assets/science/About-the-faculty/Biological/Documents/SBS-project-list-for-2026_22-01-2026.pdf",
+      "scientific_aim": "Supported but incomplete",
+      "novelty": "Unknown",
+      "methods_rigor": "Unknown",
+      "specific_facilities": "Unknown",
+      "funded_student_place": "Unknown"
+    },
+    {
+      "name": "Bioinformatic tool development for genome mining / biosynthetic enzyme discovery",
+      "source": "https://www.auckland.ac.nz/assets/science/About-the-faculty/Biological/Documents/SBS-project-list-for-2026_22-01-2026.pdf",
+      "scientific_aim": "Supported but incomplete",
+      "novelty": "Unknown",
+      "methods_rigor": "Unknown",
+      "specific_facilities": "Unknown",
+      "funded_student_place": "Unknown"
+    }
+  ],
+  "caution": "A listed project is not itself a confirmed PhD vacancy, funded admission, or experimentally validated protocol."
+}

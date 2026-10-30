@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Internal evidence/unknowns per visible peer-level CV topic, not a second report recap",
+  "dimensions": {
+    "research_output": {
+      "status": "Partially supported",
+      "section": "Research Output and Scientific Capability",
+      "finding": "Verified selected papers and author roles; systematic five-year de-duplication incomplete."
+    },
+    "funding": {
+      "status": "Partially supported",
+      "section": "Funding and Research Projects",
+      "finding": "Marsden award verified; current active resources and student stipend unverified."
+    },
+    "supervision": {
+      "status": "Needs confirmation",
+      "section": "Student Supervision and Outcomes",
+      "finding": "Advisory status and a summer student example; no complete doctoral completion records."
+    },
+    "lab_culture": {
+      "status": "Not found",
+      "section": "Laboratory Culture and Team Practices",
+      "finding": "No independent lab culture interviews or verified hours/attribution practices."
+    },
+    "reputation": {
+      "status": "Partially supported",
+      "section": "Academic Reputation and External Recognition",
+      "finding": "Scholarly recognition documented; no independent mentoring reputation evidence."
+    },
+    "background": {
+      "status": "Verified",
+      "section": "Identity and Background",
+      "finding": "Degrees and appointments corroborated by university sources; some dates unknown."
+    },
+    "research_fit": {
+      "status": "Partially supported",
+      "section": "Research Direction and Applicant Fit",
+      "finding": "Research direction matches biosynthesis goals; actual project placement needs confirmation."
+    },
+    "communication": {
+      "status": "Not found",
+      "section": "Communication and Accessibility",
+      "finding": "Contact exists, but response time and one-to-one supervision are unverified."
+    }
+  }
+}

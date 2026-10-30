@@ -1,0 +1,60 @@
+{
+  "claims": [
+    {
+      "id": "thesis_only_delay_rate",
+      "kind": "student_completion_rate",
+      "status": "Verified",
+      "cohort_n": 0,
+      "completed_n": 7,
+      "sources": [
+        {
+          "type": "official"
+        }
+      ]
+    },
+    {
+      "id": "uk_consortium_as_national",
+      "kind": "institutional_policy",
+      "status": "Verified",
+      "scope": "national",
+      "sources": [
+        {
+          "type": "official",
+          "scope": "consortium"
+        }
+      ]
+    },
+    {
+      "id": "forum_misconduct",
+      "kind": "serious_misconduct",
+      "status": "Verified",
+      "sources": [
+        {
+          "type": "anonymous"
+        }
+      ]
+    },
+    {
+      "id": "coded_speech",
+      "kind": "communication_inference",
+      "status": "Verified",
+      "basis_type": "coded_speech_guess",
+      "sources": [
+        {
+          "type": "primary_interview"
+        }
+      ]
+    },
+    {
+      "id": "ethnic_risk",
+      "kind": "other",
+      "status": "Verified",
+      "basis_type": "demographic_stereotype",
+      "sources": [
+        {
+          "type": "official"
+        }
+      ]
+    }
+  ]
+}

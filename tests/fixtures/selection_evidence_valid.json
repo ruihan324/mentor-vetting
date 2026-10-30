@@ -1,0 +1,48 @@
+{
+  "claims": [
+    {
+      "id": "china_code",
+      "kind": "institutional_policy",
+      "status": "Verified",
+      "scope": "national",
+      "sources": [
+        {
+          "type": "official",
+          "scope": "national",
+          "url": "https://www.moe.gov.cn/srcsite/A22/s7065/202011/t20201111_499442.html"
+        }
+      ]
+    },
+    {
+      "id": "student_count",
+      "kind": "student_completion_rate",
+      "status": "Needs confirmation",
+      "sources": [
+        {
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "nuanced_experience",
+      "kind": "student_experience",
+      "status": "Needs confirmation",
+      "sources": [
+        {
+          "type": "anonymous"
+        }
+      ]
+    },
+    {
+      "id": "uk_funding",
+      "kind": "funding",
+      "status": "Verified",
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+        }
+      ]
+    }
+  ]
+}

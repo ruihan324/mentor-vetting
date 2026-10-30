@@ -1,0 +1,48 @@
+{
+  "subject": "Tristan de Rond",
+  "date": "2026-10-31",
+  "level": "Preliminary public-information investigation",
+  "dimensions": {
+    "research_output": {
+      "status": "Partially supported",
+      "section": "科研成果与研究能力",
+      "finding": "Selected work verified but incomplete five-year deduplicated list."
+    },
+    "funding": {
+      "status": "Partially supported",
+      "section": "基金与项目",
+      "finding": "Marsden PI grant verified; latest usable funding unknown."
+    },
+    "supervision": {
+      "status": "Needs confirmation",
+      "section": "学生指导与培养结果",
+      "finding": "Doctoral adviser role, no graduate completion data."
+    },
+    "lab_culture": {
+      "status": "Not found",
+      "section": "实验室与团队氛围",
+      "finding": "No independently verified student interviews."
+    },
+    "reputation": {
+      "status": "Partially supported",
+      "section": "学术声誉与外部认可",
+      "finding": "Published interdisciplinary collaborative contributions; no student reputation verification."
+    },
+    "background": {
+      "status": "Verified",
+      "section": "身份与背景",
+      "finding": "University calendar degree and senior lecturer status; exact degree dates unverified."
+    },
+    "research_fit": {
+      "status": "Partially supported",
+      "section": "研究方向与适配性",
+      "finding": "Good scientific match to biosynthesis but cross-school approval unknown."
+    },
+    "communication": {
+      "status": "Not found",
+      "section": "沟通与指导可得性",
+      "finding": "No communication frequency or response record."
+    }
+  },
+  "purpose": "Internal evidence/unknowns per visible peer-level CV topic, not a second report recap"
+}
