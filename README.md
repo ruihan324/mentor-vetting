@@ -51,7 +51,7 @@ Evaluate Professor B at University A.
 
 ## Sample Report Preview
 
-Below is the original blank report template, showing the layout and section headings without any real supervisor information.
+Below is the original blank Word report template, showing its layout and section headings.
 
 ![Sample Report Preview](assets/sample-report-preview.png)
 
