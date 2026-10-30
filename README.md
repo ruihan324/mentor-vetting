@@ -15,8 +15,6 @@ Mentor Vetting researches, evaluates, and compares academic supervisors and prin
 - **Project-quality assessment** — separates achieved science from current project feasibility, available funding, staffing, and readiness.
 - **Supervision and fit analysis** — evaluates mentoring evidence and research-direction fit for the applicant.
 - **Source-linked reporting** — every key claim carries a working primary link and a verification status.
-- **Word-only output** — produces a single editable `.docx` report in a traditional black-and-white academic CV style. No PDF deliverables, no dashboards.
-- **No portraits** — the skill never generates or inserts avatars, silhouettes, or decorative profile images.
 - **Rumor-safe** — unverified community anecdotes prompt questions, never accusations or fabricated facts.
 
 ## Supported education systems
