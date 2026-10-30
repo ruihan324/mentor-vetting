@@ -53,7 +53,7 @@ Evaluate Professor B at University A.
 
 Below is the original blank Word report template, showing its layout and section headings.
 
-![Sample Report Preview](assets/mentor-vetting-original-template-preview.png)
+<img src="assets/mentor-vetting-original-template-preview.png" alt="Sample Report Preview" width="450">
 
 
 ## Download
