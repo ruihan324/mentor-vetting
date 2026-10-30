@@ -43,15 +43,16 @@ Country-specific rules are loaded on demand so that programme policies, funding 
 
 Copy the complete `mentor-vetting/` directory into your agent's skills folder, preserving `SKILL.md`, `references/`, `assets/`, and `scripts/`. Resource loading and Word generation vary by agent; consult your agent's documentation. The underlying directory format follows the [Agent Skills specification](https://agentskills.io/specification).
 
+
 ## Usage
 
-> Evaluate Tristan de Rond at the University of Auckland as a potential research supervisor. Distinguish his published contributions, current proposed projects, and evidence of mentoring. Produce only an evidence-linked editable Word (.docx) report in Chinese.
+Evaluate Professor B at University A.
 
-- Report language follows the query language; skill instructions remain in English.
-- The report is a third-party assessment, not the researcher's CV or an institutional endorsement.
-- Word-only A4 black-and-white traditional academic CV, with eight visible peer-level topic headings and live citation links; no portraits or decorative profile cards.
-- Missing primary evidence is marked unknown rather than filled by guesswork.
-- Do not use this project to harass, publicly accuse, or reveal private student information.
+## Sample Report Preview
+
+Below is a preview of the Word report template. Actual reports may vary depending on the available evidence.
+
+![Sample Report Preview](assets/sample-report-preview.png)
 
 ## Download
 
