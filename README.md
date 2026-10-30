@@ -51,7 +51,9 @@ Evaluate Professor B at University A.
 
 ## Sample Report Preview
 
-Below is a four-page example of a third-party supervisor assessment. It is not an official CV or institutional endorsement. Report content varies with the available evidence.
+Below is the original blank report template, showing the layout and section headings without any real supervisor information.
+
+![Sample Report Preview](assets/sample-report-preview.png)
 
 
 ## Download
