@@ -46,8 +46,8 @@ Copy the complete `mentor-vetting/` directory into your agent's skills folder, p
 
 ## Download
 
-- **Source:** `Code → Download ZIP` on the repository home page, or `git clone https://github.com/<owner>/mentor-vetting.git`.
-- **Release package:** the complete skill archive `mentor-vetting-v5.6.0-beta.1.zip` is attached to the [v5.6.0-beta.1 release](../../releases/tag/v5.6.0-beta.1).
+- **Source:** `Code → Download ZIP` on the repository home page, or `git clone https://github.com/ruihan324/mentor-vetting.git`.
+- **Release package:** the complete skill archive `mentor-vetting-v5.6.0-beta.1.zip` is attached to the [v5.6.0-beta.1 release](releases/tag/v5.6.0-beta.1).
 
 ## Known limitations
 
