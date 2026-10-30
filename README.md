@@ -1,12 +1,23 @@
 # Mentor Vetting
 
-An evidence-first academic supervisor due-diligence agent skill. Given a researcher and an institution, it verifies identity and contribution records, then produces a source-linked, decision-useful assessment as an editable Word document.
+## Why Mentor Vetting?
 
-**Current release:** `5.6.0-beta.1` (pre-release).
+Choosing an academic supervisor can be stressful and time-consuming. You may find yourself constantly switching between university websites, research databases, and other platforms, trying to gather enough information to make the right decision.
 
-## Overview
+**Mentor Vetting was created to make this process easier.**
 
-Mentor Vetting researches, evaluates, and compares academic supervisors and principal investigators for prospective master's, PhD, postdoctoral, and collaboration decisions. It does not guess: every consequential claim is checked against primary sources, and missing evidence is labelled rather than invented.
+This open-source AI agent skill helps you research, evaluate, and compare potential academic supervisors. It brings relevant information together in an editable Word report, with links to original sources whenever available, saving you time on searching and shortlisting.
+
+You can review the findings, verify the sources, and explore anything that interests you further. The goal is not to make the decision for you, but to help you make a more informed choice.
+
+**To everyone searching for a supervisor, I sincerely wish you all the best. May you find someone who recognizes your potential, respects your ambitions, and supports you throughout your research journey.**
+
+Your feedback, suggestions, and contributions are always welcome. I hope we can make Mentor Vetting more accurate, useful, and accessible to everyone.
+
+[Contribute to this project](CONTRIBUTING.md)
+
+**Current release:** [`v5.6.0-beta.1`](https://github.com/ruihan324/mentor-vetting/releases/tag/v5.6.0-beta.1) (pre-release).
+
 
 ## Key features
 
